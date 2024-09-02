@@ -1,0 +1,12 @@
+{
+  "name": "豌豆射手",
+  "height": 70,
+  "width":70,
+  "attck": 30,
+  "health":150,
+  "images": "plant/wandou/wandou (%d).png",
+  "imageCount": 43,
+  "bulletImage": "plant/wandou/Bullets/bullet1.png",
+  "attckSpeed": 2,
+  "cost": 100
+}

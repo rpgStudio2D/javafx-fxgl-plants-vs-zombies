@@ -1,0 +1,7 @@
+{
+  "name": "普通僵尸",
+  "health": 270,
+  "atk": 20,
+  "speed": 30,
+  "durtion": 2
+}

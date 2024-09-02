@@ -1,0 +1,15 @@
+{
+  "name": "普通僵尸",
+  "atk": 60,
+  "hp": 270,
+  "weight": 120,
+  "widht": 150,
+  "image": "zombits/baozhi/baozhi (%d).png",
+  "imagecount": 43,
+  "eatimage":"zombits/baozhi/baozhi (%d).png",
+  "eatimagestart": 48,
+  "eatimageend": 94,
+  "dieimage": "zombits/baozhi/baozhi (%d).png",
+  "diestart": 197,
+  "dieend": 235
+}
